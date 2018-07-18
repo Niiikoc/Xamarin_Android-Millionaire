@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="@drawable/afaa">
+    <RelativeLayout
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent">
+        <ImageView
+            android:src="@drawable/million_logo"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_gravity="clip_vertical"
+            android:layout_centerInParent="false" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,4 @@
+values/attrs.xml;values/attrs.xml
+values/strings.xml;values/strings.xml
+layout/bar_horizontal.xml;layout/bar_horizontal.xml
+layout/bar_vertical.xml;layout/bar_vertical.xml

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lottie.Android</name>
+    </assembly>
+    <members>
+        <member name="M:Com.Airbnb.Lottie.LottieAnimationView.SetImageAssetDelegate(System.Func{Com.Airbnb.Lottie.LottieImageAsset,Android.Graphics.Bitmap})">
+            <summary>
+            Delegate to handle the loading of bitmaps that are not packaged in the assets of your app.
+            </summary>
+        </member>
+        <member name="M:Com.Airbnb.Lottie.LottieComposition.Factory.FromAssetFileName(Android.Content.Context,System.String,System.Action{Com.Airbnb.Lottie.LottieComposition})">
+            <summary>
+            Asynchronously loads a composition from a file stored in /assets.
+            </summary>
+        </member>
+        <member name="M:Com.Airbnb.Lottie.LottieComposition.Factory.FromInputStream(System.IO.Stream,System.Action{Com.Airbnb.Lottie.LottieComposition})">
+            <summary>
+            Asynchronously loads a composition from an arbitrary input stream.
+            </summary>
+        </member>
+        <member name="M:Com.Airbnb.Lottie.LottieComposition.Factory.FromJsonString(System.String,System.Action{Com.Airbnb.Lottie.LottieComposition})">
+            <summary>
+             Asynchronously loads a composition from a json string. This is useful for animations loaded from the network.
+            </summary>
+        </member>
+    </members>
+</doc>

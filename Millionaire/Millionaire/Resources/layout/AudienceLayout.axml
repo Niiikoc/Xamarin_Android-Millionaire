@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:barchart="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF">
+    <RelativeLayout
+        android:layout_height="230dp"
+        android:layout_width="fill_parent"
+        android:layout_gravity="center">
+        <me.ithebk.barchart.BarChart
+            android:id="@+id/bar_chart_vertical"
+            barchart:bar_type="vertical"
+            barchart:bar_width="45dp"
+            barchart:bar_color="@color/colorPrimary"
+            barchart:bar_text_color="#808080"
+            barchart:bar_text_size="15sp"
+            barchart:bar_show_auto_color="false"
+            barchart:bar_max_value="100"
+            barchart:bar_spaces="20dp"
+            barchart:bar_show_value="true"
+            barchart:bar_show_animation="true"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="35dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Β"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="105dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Γ"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="170dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Δ"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="235dp" />
+    </RelativeLayout>
+</LinearLayout>

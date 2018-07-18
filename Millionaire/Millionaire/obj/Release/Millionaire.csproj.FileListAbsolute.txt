@@ -1,0 +1,866 @@
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Millionaire.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Millionaire.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\BarChart.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\EasySplashScreen.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\EDMTDev.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\FormsViewGroup.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Transition.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.GooglePlayServices.Ads.Lite.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\FormsViewGroup.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Newtonsoft.Json.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Ads.Lite.dll.stamp
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\proguard\dc663e480.txt
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\dc663e48.proguard.stamp
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\proguard\e843ef2a0.txt
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\e843ef2a.proguard.stamp
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CopyComplete
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\Millionaire.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\Millionaire.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\layout\rightlayout.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\layout\firstpage.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\layout\audiencelayout.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\layout\exitgame.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\layout\restartgamelayout.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\layout\welcomeactivity.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\layout\startgame.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\values\strings.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\circlebardesign.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\mybutton.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\phone.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\half.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\audience.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\ovalyellow.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\ovalwhite.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\ic_edit.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_orange.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_yellow.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\values\styles.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\exit.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\mainbutton.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor2.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor1.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\anim\slide_up.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\anim\slide_right.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\left_arrow.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_red.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_green.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\values\colors.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\disable_audience.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\disable_half.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\disable_phone.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\audience_a.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\audience_b.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\audience_c.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\audience_d.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_1.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_2.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_3.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_win1million.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_1.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_3.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_2.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\mute.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\unmute.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\level_1.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\level_2.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\level_3.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\million_logo.png
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\R.cs.flag
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\uploadflags.txt
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.dll
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.xml
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\half_half_sound.wav
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\score_100.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\score_2000.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\score_64000.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\win_million.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_a1.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_a2.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_a3.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_a4.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_b1.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_b2.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_b3.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_b4.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_c1.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_c2.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_c3.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_c4.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_d1.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_d2.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_d3.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_d4.mp3
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Millionaire.Millionaire.apk
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Millionaire.Millionaire-Signed.apk
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\bin\Millionaire.Millionaire.apk
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Mono.Android.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\mscorlib.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Core.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Xml.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Net.Http.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Data.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Numerics.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Transactions.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Mono.Data.Tds.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Mono.Security.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.IO.Compression.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.IO.Compression.FileSystem.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Web.Services.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\System.Xml.Linq.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Mono.Android.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\mscorlib.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Core.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Xml.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Net.Http.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Data.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Numerics.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Transactions.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Mono.Data.Tds.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Mono.Security.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.IO.Compression.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Web.Services.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Xml.Linq.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Millionaire.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\bin\Release\Millionaire.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Millionaire.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Mono.Android.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Mono.Security.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\mscorlib.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Core.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Data.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Net.Http.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Numerics.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Xml.Linq.pdb
+C:\Users\Dominik\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Xml.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Millionaire.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Millionaire.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\BarChart.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\EasySplashScreen.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\EDMTDev.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\FormsViewGroup.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Lottie.Android.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Lottie.Forms.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Newtonsoft.Json.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Transition.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.GooglePlayServices.Ads.Lite.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\FormsViewGroup.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Lottie.Android.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Lottie.Android.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Lottie.Forms.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Lottie.Forms.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Newtonsoft.Json.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Ads.Lite.dll.stamp
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\proguard\dc663e480.txt
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\dc663e48.proguard.stamp
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\proguard\e843ef2a0.txt
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\XbdMerge\e843ef2a.proguard.stamp
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CoreCompileInputs.cache
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CopyComplete
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\Millionaire.dll
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\Millionaire.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\layout\rightlayout.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\layout\firstpage.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\layout\audiencelayout.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\layout\exitgame.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\layout\restartgamelayout.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\layout\welcomeactivity.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\layout\wingamelayout.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\layout\startgame.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\values\strings.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\circlebardesign.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\mybutton.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\phone.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\half.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\audience.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\ovalyellow.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\ovalwhite.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\ic_edit.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_orange.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_yellow.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\values\styles.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\exit.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\mainbutton.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor2.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor1.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\anim\slide_up.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\anim\slide_right.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\left_arrow.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_red.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_green.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\values\colors.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\disable_audience.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\disable_half.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\disable_phone.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\audience_a.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\audience_b.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\audience_c.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\audience_d.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_1.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_2.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_3.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_win1million.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_1.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_3.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_2.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\mute.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\unmute.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\level_1.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\level_2.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\level_3.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\million_logo.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\half_half_sound.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\score_100.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\score_2000.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\score_64000.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\win_million.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_a1.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_a2.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_a3.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_a4.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_b1.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_b2.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_b3.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_b4.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_c1.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_c2.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_c3.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_c4.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_d1.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_d2.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_d3.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\phone_d4.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\end_time.wav
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor3.xml
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\bgd2.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\drawable\afaa.png
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\res\raw\milllionaire_win.mp3
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\R.cs.flag
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\R.txt
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\uploadflags.txt
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\com.Millionaire.Millionaire.apk
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\com.Millionaire.Millionaire-Signed.apk
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\bin\com.Millionaire.Millionaire.apk
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Mono.Android.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\mscorlib.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Core.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Xml.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Net.Http.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Data.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Numerics.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Transactions.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.IO.Compression.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.IO.Compression.FileSystem.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Web.Services.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\System.Xml.Linq.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Mono.Security.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Lottie.Android.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Lottie.Forms.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Mono.Android.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\mscorlib.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.Abstractions.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Core.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Xml.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Net.Http.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Data.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Numerics.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Transactions.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.IO.Compression.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Web.Services.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\System.Xml.Linq.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Mono.Security.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Millionaire.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\bin\Release\Millionaire.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Millionaire.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Lottie.Android.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Lottie.Forms.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Mono.Android.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Mono.Security.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\mscorlib.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Plugin.Connectivity.Abstractions.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Core.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Data.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Net.Http.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Numerics.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Xml.Linq.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\System.Xml.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\nickt\Desktop\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Millionaire.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Millionaire.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\com.Millionaire.Millionaire.apk
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\com.Millionaire.Millionaire-Signed.apk
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\BarChart.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\EasySplashScreen.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\EDMTDev.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\FormsViewGroup.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Lottie.Android.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Lottie.Forms.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Transition.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.GooglePlayServices.Ads.Lite.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\FormsViewGroup.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Lottie.Android.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Lottie.Android.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Lottie.Forms.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Lottie.Forms.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Newtonsoft.Json.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\Millionaire.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Ads.Lite.dll.stamp
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\XbdMerge\proguard\dc663e480.txt
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\XbdMerge\dc663e48.proguard.stamp
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\XbdMerge\proguard\e843ef2a0.txt
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\XbdMerge\e843ef2a.proguard.stamp
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CopyComplete
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\Millionaire.dll
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\Millionaire.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\bin\com.Millionaire.Millionaire.apk
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\layout\rightlayout.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\layout\firstpage.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\layout\audiencelayout.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\layout\exitgame.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\layout\restartgamelayout.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\layout\welcomeactivity.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\layout\wingamelayout.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\layout\startgame.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\values\strings.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\circlebardesign.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\mybutton.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\phone.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\half.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\audience.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\ovalyellow.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\ovalwhite.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\ic_edit.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_orange.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_yellow.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\values\styles.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\exit.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\mainbutton.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor2.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor1.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\anim\slide_up.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\anim\slide_right.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\left_arrow.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_red.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_green.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\values\colors.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\disable_audience.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\disable_half.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\disable_phone.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\audience_a.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\audience_b.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\audience_c.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\audience_d.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_1.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_2.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_3.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_win1million.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_1.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_3.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_2.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\mute.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\unmute.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\level_1.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\level_2.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\level_3.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\million_logo.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\half_half_sound.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\score_100.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\score_2000.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\score_64000.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\win_million.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_a1.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_a2.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_a3.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_a4.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_b1.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_b2.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_b3.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_b4.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_c1.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_c2.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_c3.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_c4.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_d1.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_d2.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_d3.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\phone_d4.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\end_time.wav
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor3.xml
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\bgd2.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\drawable\afaa.png
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\res\raw\milllionaire_win.mp3
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\R.cs.flag
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\R.txt
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\uploadflags.txt
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Mono.Android.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Mono.Security.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\mscorlib.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Core.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Data.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.IO.Compression.FileSystem.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.IO.Compression.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Net.Http.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Numerics.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Transactions.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Web.Services.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Xml.Linq.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\System.Xml.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Lottie.Android.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Lottie.Forms.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Mono.Android.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\mscorlib.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Core.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Xml.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Net.Http.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Data.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Numerics.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Transactions.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.IO.Compression.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Web.Services.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\System.Xml.Linq.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Mono.Security.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Millionaire.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\bin\Release\Millionaire.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Millionaire.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Lottie.Android.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Lottie.Forms.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Mono.Android.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Mono.Security.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\mscorlib.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.Core.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.Data.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.Net.Http.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.Numerics.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.Xml.Linq.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\System.Xml.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Dominik\source\repos\A. My public Apps\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Millionaire.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Millionaire.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\com.Millionaire.Millionaire.apk
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\com.Millionaire.Millionaire-Signed.apk
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\BarChart.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\EasySplashScreen.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\EDMTDev.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\FormsViewGroup.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Lottie.Android.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Lottie.Forms.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Newtonsoft.Json.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Transition.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.GooglePlayServices.Ads.Lite.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\FormsViewGroup.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Lottie.Android.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Lottie.Android.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Lottie.Forms.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Lottie.Forms.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Newtonsoft.Json.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Plugin.Connectivity.Abstractions.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\Millionaire.csprojAssemblyReference.cache
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Ads.Lite.dll.stamp
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\XbdMerge\proguard\dc663e480.txt
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\XbdMerge\dc663e48.proguard.stamp
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\XbdMerge\proguard\e843ef2a0.txt
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\XbdMerge\e843ef2a.proguard.stamp
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CoreCompileInputs.cache
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\Millionaire.csproj.CopyComplete
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\Millionaire.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\Millionaire.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\bin\com.Millionaire.Millionaire.apk
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\layout\rightlayout.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\layout\firstpage.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\layout\audiencelayout.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\layout\exitgame.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\layout\restartgamelayout.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\layout\welcomeactivity.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\layout\wingamelayout.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\layout\startgame.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\values\strings.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\circlebardesign.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\mybutton.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\phone.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\half.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\audience.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\ovalyellow.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\ovalwhite.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\ic_edit.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_orange.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_yellow.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\values\styles.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\exit.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\mainbutton.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor2.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor1.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\anim\slide_up.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\anim\slide_right.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\left_arrow.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_red.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\arrow_up_green.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\values\colors.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\disable_audience.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\disable_half.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\disable_phone.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\audience_a.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\audience_b.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\audience_c.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\audience_d.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_1.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_2.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_3.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\correct_answer_win1million.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_1.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_3.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\wrong_answer_2.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\mute.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\unmute.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\level_1.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\level_2.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\level_3.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\million_logo.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\half_half_sound.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\score_100.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\score_2000.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\score_64000.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\win_million.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_a1.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_a2.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_a3.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_a4.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_b1.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_b2.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_b3.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_b4.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_c1.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_c2.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_c3.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_c4.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_d1.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_d2.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_d3.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\phone_d4.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\end_time.wav
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor3.xml
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\backgroundcolor.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\bgd2.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\drawable\afaa.png
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\res\raw\milllionaire_win.mp3
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\R.cs.flag
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\R.txt
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\uploadflags.txt
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Mono.Android.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Mono.Security.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\mscorlib.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Core.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Data.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.IO.Compression.FileSystem.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.IO.Compression.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Net.Http.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Numerics.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Transactions.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Web.Services.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Xml.Linq.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\System.Xml.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Lottie.Android.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Lottie.Forms.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Mono.Android.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\mscorlib.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.Abstractions.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Core.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Xml.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Net.Http.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Data.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Numerics.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Transactions.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.IO.Compression.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Web.Services.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\System.Xml.Linq.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Mono.Security.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Millionaire.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Millionaire.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Millionaire.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Lottie.Android.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Lottie.Forms.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Mono.Android.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Mono.Security.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\mscorlib.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Plugin.Connectivity.Abstractions.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.Core.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.Data.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.Net.Http.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.Numerics.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.Xml.Linq.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\System.Xml.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\bin\Release\Millionaire.dll
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Millionaire.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\materialloadingprogressbar-0.5.6.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Plugin.Connectivity.dll.mdb
+C:\Users\nickt\Documents\Millionaire\Millionaire\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
